@@ -33,18 +33,13 @@ Users who have been introduced to the Heyrron Chatbot have expressed overwhelmin
     python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-
-3. **Install required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the chatbot**:
+    
+3. **Run the chatbot**:
     ```bash
     python Chatbot/chatbot.py
     ```
 
-5. **Interact with the chatbot**:
+4. **Interact with the chatbot**:
     Open your terminal and start chatting!
 
 **File Structure**
